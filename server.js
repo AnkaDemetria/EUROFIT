@@ -17,4 +17,4 @@ const connection = mysql.createConnection({
 
 
 
-module.exports = {app, port, connection};// on va exporter les données puiqu on ne les utilise pas
+module.exports = {app, port, connection};// on va exporter les données puiqu'on ne les utilise pas
